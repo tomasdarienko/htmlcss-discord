@@ -1,0 +1,256 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'Roboto', sans-serif;
+}
+
+
+
+header{
+     background-image: url(./discord.img/jumbo.png);
+     background-size: cover;
+     height: 500px;
+}
+
+.contentheader{
+     text-align: center;
+     
+}
+
+h1{
+     margin-bottom: 40px;
+     font-size: 50px;   
+}
+p{
+     line-height: 30px;
+     margin-top: 30px;
+}
+.grassetto{
+     
+     font-size: 45px;
+     
+}
+
+.fs30px{
+     font-size: 30px;
+     margin-bottom: 30px;
+}
+.fs20px{
+     font-size: 20px;
+  
+}
+
+.ita{
+     width: 30px;
+}
+
+.center{
+     display: flex;
+     justify-content: center;
+     align-items: center;  
+}
+.jscenter{
+     display: flex;
+     justify-content: center;
+}
+.column{
+     flex-direction: column;
+}
+
+a{
+     text-decoration: none;
+     margin-right: 30px;
+     color: white;
+}
+
+.marginbt{
+     margin-bottom: 15px;
+
+}
+
+#social{
+     margin: 10px;
+}
+
+.button{
+     border: none;
+     border-radius: 15px;
+     padding: 10px;
+     margin: 15px;
+     
+}
+
+
+
+
+
+
+
+
+.rowcontainer-h50 {
+
+     padding: 20px;
+     display: flex;
+  
+}
+
+.rowcontainer-h700 {
+
+     
+  
+}
+
+.rowcontainer-h500 {
+
+     
+   
+     
+}
+
+.rowcontainer-h900 {
+
+    padding-top: 20px;
+    padding-bottom: 100px;
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.row-h400 {
+     max-width: 1000px;
+    margin-top: 90px;
+ 
+}
+
+.row-h30 {
+     width: 1000px;
+    
+}
+
+.row-h500 {
+     width: 1100px;
+    
+     padding: 30px;
+    
+}
+
+.row-h800{
+     width: 1100px;
+     
+     
+
+}
+.row-h40 {
+     width: 1000px;
+     height: 40px;
+     display: flex;
+     justify-content:  space-between;
+     align-items:center;
+}
+
+
+
+
+
+
+
+
+
+     .col-20 {
+          height: 100%;
+          width: 20%;
+          
+     }
+     .col-10{
+          
+          
+          
+     }
+    
+
+
+     .col-60 {
+          height: 100%;
+          width: 60%;
+         
+     }
+
+     .col-70 {
+         
+          width: 70%;
+     }
+
+     .col-30 {
+         
+          
+          width: 30%;
+     }
+
+     
+
+     .col-100 {
+
+          height: 100%;
+          
+          width: 100%;
+
+     }
+     .col-40 {
+          height: 100%;
+          width: 40%;
+     }
+
+
+
+
+
+.breaker{
+     color : rgb(255, 255, 255);
+     border : 1px solid rgb(255, 255, 255);
+
+   }
+
+
+
+
+
+.bg-gray {
+     background-color: lightgray;}
+    
+.bg-yellow{
+     background-color: yellow;
+}
+.bg-black{
+     background-color: black;
+}
+.bg-pink{
+     background-color: pink;
+}
+.bg-azure{
+     background-color: rgb(88, 219, 219)
+}
+.bg-green{
+     background-color: rgb(9, 255, 0);
+}
+.bg-white{
+     background-color: white;
+}
+
+
+
+.white{
+     color: white;
+}
+.blu{
+     color: blue;
+}
